@@ -1,0 +1,11 @@
+(use 'training-day)
+(use training-day)
+(use training-day :reload)
+(use training-day)
+(use 'training-day :reload)
+(square 2)
+(square (square 2))
+hai
+answer
+midje
+exit
